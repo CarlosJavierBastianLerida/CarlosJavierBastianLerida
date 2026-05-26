@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d4ff&height=200&section=header&text=Carlos%20J%20Bastian%20L%C3%A9rida&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Aplicaciones%20Web&descAlignY=58&descSize=18)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Desarrollador+De+Aplicaciones+Web;PHP+%7C+Python+%7C+HTML+%7C+CSS;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil;Desarrollador+De+Aplicaciones+Web;PHP+%7C+Python+%7C+HTML+%7C+CSS;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)
 
 </div>
 
