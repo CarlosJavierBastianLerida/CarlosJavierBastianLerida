@@ -70,7 +70,7 @@ estado:     Aprendiendo y construyendo 🚀
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CarlosJavierBastianLerida&theme=tokyonight&hide_border=true&locale=es"/>
+  <img src="https://ghchart.rshah.org/00d4ff/CarlosJavierBastianLerida" alt="Contribution chart"/>
 </div>
 
 
