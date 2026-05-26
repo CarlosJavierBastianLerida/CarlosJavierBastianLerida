@@ -75,7 +75,7 @@ estado:     Aprendiendo y construyendo 🚀
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosJavierBastianLerida&theme=tokyonight&no-frame=true&column=4&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosJavierBastianLerida&theme=tokyonight&no-frame=true&column=5&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
