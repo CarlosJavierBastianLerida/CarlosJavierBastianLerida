@@ -78,7 +78,7 @@ estado:     Aprendiendo y construyendo 🚀
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/00d4ff/CarlosJavierBastianLerida" alt="Contribution chart"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosJavierBastianLerida&theme=react-dark&hide_border=true&area=true"/>
 </div>
 
 
