@@ -27,19 +27,24 @@ estado:     Aprendiendo y construyendo 🚀
     <td valign="top" width="33%">
       <h3 align="center">Frontend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+        <img title="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" />
+        <img title="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" />
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Backend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=php,python,fastapi&theme=dark" />
+        <img title="PHP" src="https://skillicons.dev/icons?i=php&theme=dark" />
+        <img title="Python" src="https://skillicons.dev/icons?i=python&theme=dark" />
+        <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Herramientas</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+        <img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
+        <img title="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" />
+        <img title="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
       </div>
     </td>
   </tr>
