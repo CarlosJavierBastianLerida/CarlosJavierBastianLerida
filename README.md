@@ -70,6 +70,7 @@ estado:     Aprendiendo y construyendo 🚀
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosJavierBastianLerida&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosJavierBastianLerida&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosJavierBastianLerida&theme=tokyonight"/>
 </div>
 
@@ -83,12 +84,6 @@ estado:     Aprendiendo y construyendo 🚀
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosJavierBastianLerida&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosJavierBastianLerida&theme=tokyonight&no-frame=true&column=5&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
