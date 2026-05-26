@@ -63,14 +63,22 @@ estado:     Aprendiendo y construyendo 🚀
 ## Estadísticas
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-three-pi-56.vercel.app/api?username=CarlosJavierBastianLerida&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img width="48%" src="https://github-readme-stats-three-pi-56.vercel.app/api/top-langs/?username=CarlosJavierBastianLerida&theme=tokyonight&hide_border=true&layout=donut&langs_count=8"/>
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats-three-pi-56.vercel.app/api?username=CarlosJavierBastianLerida&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats-three-pi-56.vercel.app/api/top-langs/?username=CarlosJavierBastianLerida&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00d4ff/CarlosJavierBastianLerida" alt="Contribution chart"/>
+  <img width="100%" src="https://ghchart.rshah.org/00d4ff/CarlosJavierBastianLerida" alt="Contribution chart"/>
 </div>
 
 
