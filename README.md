@@ -30,6 +30,8 @@ estado:     Aprendiendo y construyendo 🚀
       <div align="center">
         <img title="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" />
         <img title="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" />
+        <img title="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" />
+        <img title="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=dark" />
         <img title="Angular" src="https://skillicons.dev/icons?i=angular&theme=dark" />
       </div>
     </td>
@@ -48,6 +50,7 @@ estado:     Aprendiendo y construyendo 🚀
         <img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
         <img title="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" />
         <img title="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+        <img title="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />
         <img title="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=dark" />
       </div>
     </td>
