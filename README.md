@@ -70,7 +70,7 @@ estado:     Aprendiendo y construyendo 🚀
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00d4ff/CarlosJavierBastianLerida" alt="Contribution chart"/>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </div>
 
 
