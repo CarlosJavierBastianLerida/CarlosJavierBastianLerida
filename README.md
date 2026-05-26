@@ -30,6 +30,7 @@ estado:     Aprendiendo y construyendo 🚀
       <div align="center">
         <img title="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" />
         <img title="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" />
+        <img title="Angular" src="https://skillicons.dev/icons?i=angular&theme=dark" />
       </div>
     </td>
     <td valign="top" width="33%">
@@ -38,6 +39,7 @@ estado:     Aprendiendo y construyendo 🚀
         <img title="PHP" src="https://skillicons.dev/icons?i=php&theme=dark" />
         <img title="Python" src="https://skillicons.dev/icons?i=python&theme=dark" />
         <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+        <img title="Laravel" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
       </div>
     </td>
     <td valign="top" width="33%">
@@ -46,6 +48,7 @@ estado:     Aprendiendo y construyendo 🚀
         <img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
         <img title="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" />
         <img title="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+        <img title="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=dark" />
       </div>
     </td>
   </tr>
@@ -95,6 +98,9 @@ estado:     Aprendiendo y construyendo 🚀
   </a>
   <a href="https://github.com/CarlosJavierBastianLerida">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlosbastianlerida/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=CarlosJavierBastianLerida&style=for-the-badge&color=6e40c9" alt="Profile views"/>
