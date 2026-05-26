@@ -22,6 +22,7 @@ estado:     Aprendiendo y construyendo 🚀
 
 ## Stack tecnológico
 
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -49,6 +50,7 @@ estado:     Aprendiendo y construyendo 🚀
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
