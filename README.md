@@ -22,29 +22,28 @@ estado:     Aprendiendo y construyendo 🚀
 
 ## Stack tecnológico
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<br/>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-<br/>
-
-### Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=php,python,fastapi&theme=dark" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Herramientas</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
