@@ -86,6 +86,12 @@ estado:     Aprendiendo y construyendo 🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosJavierBastianLerida&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosJavierBastianLerida&theme=onedark&no-frame=true&column=5&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+</div>
+
 ---
 
 ## Contacto
